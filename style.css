@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Brawler&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Brawler&display=swap');
 
 *
 {
@@ -64,10 +64,10 @@ body{
   color: rgba(0, 0,0,0.8);
   text-align: center;
   display: inline-block;
-  margin-bottom: 20px;
-  font-size: 1.5rem;
+  margin-bottom: 30px;
+  font-size: 2rem;
   letter-spacing: 2px;
-  margin-left: 45px;
+  margin-left: 65px;
 
 
 }
@@ -95,23 +95,21 @@ body{
 }
 
 .input-box input[type ="submit"]{
-  background-color: #c1c4c5;
-  color: rgba(95, 91, 91, 0.864);
+  background-color: hwb(39 41% 18%);
+  color: black;
   letter-spacing: 4px;
   font-size: 1.1rem;
   cursor: pointer;
   font-weight: bold;
-  width: 100%;
+  width: 65%;
   margin-top: 20px;
   
 
 }
-.container .content-box .returnlogin {
+.container .content-box .forgot {
   text-align: center;
   margin: 10px 10px 50px 10px;
-  text-decoration: none;
-  color: black;
   
   padding-bottom: 10px;
-  
+  pa
 }
